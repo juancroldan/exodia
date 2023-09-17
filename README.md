@@ -1,13 +1,15 @@
 # EXOrDIA
 
-This will be a simple python library called exordia, which relies on using XOR operations to split a file into N encrypted shards. The method is simple:
+This will be a simple python library called exordia, which relies on using XOR operations to split a file into N encrypted shards. The name is a reference to the Yu-Gi-Oh! card [Exodia the Forbidden One](https://yugioh.fandom.com/wiki/Exodia_the_Forbidden_One), which is split into 5 pieces.
 
-Split
+The method is simple:
+
+**Split**
 * Generate N-1 random files
 * Generate a file by XORing all the random files plus the original one
 * The N generated files are the shards
 
-Merge
+**Merge**
 * XOR the N random files
 
 ## Usage
