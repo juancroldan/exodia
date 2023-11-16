@@ -1,4 +1,4 @@
-# EXOrDIA
+# eXORdia
 
 Check the online JS demo at [Github Pages](https://juancroldan.github.io/exordia/).
 
