@@ -1,6 +1,6 @@
 # eXORdia
 
-Check the online JS demo at [Github Pages](https://juancroldan.github.io/exordia/).
+Check the online JS demo at [Github Pages](https://jcarlosroldan.github.io/exordia/).
 
 This will be a simple python library called exordia, which relies on using XOR operations to split a file into N encrypted shards. The name is a reference to the Yu-Gi-Oh! card [Exodia the Forbidden One](https://yugioh.fandom.com/wiki/Exodia_the_Forbidden_One), which is split into 5 pieces.
 
